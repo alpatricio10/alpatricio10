@@ -1,1 +1,3 @@
-- 👋 Hi, I’m @alpatricio10
+Hi, I’m @alpatricio10! I have no clue what I'm doing half the time, but if it works, it works...
+
+Will code for money.
